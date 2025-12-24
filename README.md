@@ -1,47 +1,31 @@
-# digital-stopwatch-app
-A web-based digital stopwatch with lap tracking, session history, pause/continue functionality, and animated neon glow.
 
+## Table of Contents
 
+<details>
 
----
+   <summary>Contents</summary>
 
-## 🛠️ Technologies Used
-- **HTML5** – Structure of the application  
-- **CSS3** – Styling, layout, and animation effects  
-- **JavaScript** – Stopwatch logic, event handling, lap and history tracking  
+1. [📌 Project Overview](#-project-overview)
+1. [✨ Features](#-features)
+1. [🗂️ Project Structure](#-project-structure)
 
----
+</details>
+# Digital Stopwatch Application
 
-## 🎓 Student Information
-- **Name:** MARK JOHN PAUL VILLACORTA  
-- **Course & Section:** 4-BSIT-D  
-- **Requirement:** REQUIREMENTS FOR ELECTIVE 3  
-
----
-
-## 🎯 Purpose of the Project
-This project was developed to fulfill the **requirements for Elective 3** and to demonstrate:
-- Proper separation of concerns (HTML, CSS, and JavaScript)  
-- Use of JavaScript timing functions and event handling  
-- Clean and user-friendly interface design  
-- Development of a functional web-based application  
+## 📌 Project Overview
+The **Digital Stopwatch Application** is a web-based stopwatch system developed using **HTML, CSS, and JavaScript**.  
+It provides accurate time tracking with features such as **start, pause, continue, stop, reset, lap recording, session history**, and **animated neon glow effects** while the stopwatch is running.
 
 ---
 
-## 📌 How to Run the Project
-1. Download or clone the repository  
-2. Make sure all three files are in the same folder  
-3. Open `index.html` using any modern web browser  
+## ✨ Features
+- ⏱️ Digital stopwatch with hours, minutes, seconds, and milliseconds  
+- ▶️ Start, ⏸️ Pause, ▶️ Continue, ⏹️ Stop, and 🔄 Reset functions  
+- 🏁 Lap recording for the current session  
+- 📜 Session history tracking  
+- 💡 Animated neon glow effect when the stopwatch is running  
+- 📁 Clean separation of HTML, CSS, and JavaScript files  
 
 ---
 
-## ✅ Project Guidelines
-- Uses **exactly three (3) files only**  
-- No inline CSS  
-- No inline JavaScript  
-- Fully compliant with academic project requirements  
-
----
-
-## 📄 License
-This project is intended for **educational purposes only**.
+## 🗂️ Project Structure

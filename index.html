@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Digital Stopwatch</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+
+    <!-- STOPWATCH -->
+    <div class="container" id="stopwatchBox">
+        <div id="time">00:00:00.00</div>
+
+        <div class="buttons">
+            <button id="startBtn" class="start">Start</button>
+            <button id="pauseBtn" class="pause">Pause</button>
+            <button id="stopBtn" class="stop">Stop</button>
+            <button id="lapBtn" class="lap">Lap</button>
+            <button id="resetBtn" class="reset">Reset</button>
+        </div>
+
+        <div class="section">
+            <strong>Laps</strong>
+            <div class="box" id="laps"></div>
+        </div>
+    </div>
+
+    <!-- HISTORY -->
+    <div class="history-panel" id="historyBox">
+        <div class="history-title">History</div>
+        <div class="box" id="history"></div>
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
